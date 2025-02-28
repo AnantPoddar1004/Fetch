@@ -5,7 +5,7 @@
 2. Open folder in Android Studio
 3. Ensure you have JDK 17+ and Android SDK 34
 4. Run the project - the app should be visible in the Running Devices Emulator
-5. Please referesh/ run again if any list/item data is missing on the intiial run
+5. Please referesh/ run again if any list/item data is missing on the intial run
 
 ## Views
 <div style="display: flex; justify-content: space-between;">
