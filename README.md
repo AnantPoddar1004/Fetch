@@ -9,8 +9,8 @@
 
 ## Views
 <div style="display: flex; justify-content: space-between;">
-  <img src="./screenshots/'Home Screen'.png" alt="Screenshot 1" width="200"/>
-  <img src="./screenshots/'Expand List 1'.png" alt="Screenshot 2" width="200"/>
-  <img src="./screenshots/'Expand List 2'.png" alt="Screenshot 3" width="200"/>
-  <img src="./screenshots/'Expanded All Lists'.png" alt="Screenshot 4" width="200"/>
+  <img src="./screenshots/Home%20Screen.png" alt="Screenshot 1" width="200"/>
+  <img src="./screenshots/Expanded%20List%201.png" alt="Screenshot 2" width="200"/>
+  <img src="./screenshots/Expanded%20List%202.png" alt="Screenshot 3" width="200"/>
+  <img src="./screenshots/Expanded%20All%20Lists.png" alt="Screenshot 4" width="200"/>
 </div>
