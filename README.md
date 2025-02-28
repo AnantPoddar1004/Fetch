@@ -8,8 +8,9 @@
 5. Please referesh/ run again if any list/item data is missing on the intiial run
 
 ## Views
-![Home Screen](./screenshots/Home%20Screen.png)
-![Expanded List 1](./screenshots/Expanded%20List%201.png)
-![Expanded List 2](./screenshots/Expanded%20List%202.png)
-![Expand All Lists](./screenshots/Expanded%20All%20Lists.png)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshots/'Home Screen'.png" alt="Screenshot 1" width="200"/>
+  <img src="./screenshots/'Expand List 1'.png" alt="Screenshot 2" width="200"/>
+  <img src="./screenshots/'Expand List 2'.png" alt="Screenshot 3" width="200"/>
+  <img src="./screenshots/'Expanded All Lists'.png" alt="Screenshot 4" width="200"/>
+</div>
